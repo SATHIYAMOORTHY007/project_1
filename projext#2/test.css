@@ -1,0 +1,19 @@
+body{
+   
+    padding:10%;
+    font-size:2rem;
+}
+input,button{
+    font:inherit;
+}
+.para{
+    text-indent:4rem;
+    line-height:2rem;
+    line-break:none;
+    text-align: justify;
+    color:lightblue;
+    font-style:'times New Roman';
+    font-family:sans-serif;;
+    text-shadow:1px 6px 4px;
+    word-spacing:2rem;
+}
